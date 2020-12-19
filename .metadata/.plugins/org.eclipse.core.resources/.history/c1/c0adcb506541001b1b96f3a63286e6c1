@@ -1,0 +1,6 @@
+package com.miit.javatraining;
+
+public class orange extends Fruits{
+	
+
+}

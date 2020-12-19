@@ -1,0 +1,20 @@
+package com.miit.javatraining;
+
+class Inheritance {
+	void singleinheritance() {System.out.println("type1");}
+}
+class Type2 extends Inheritance{
+	void multileveinheritance() {System.out.println("type2");}
+}	
+	class Type3 extends Inheritance{
+		void hierarchical() {System.out.println("type3");}
+}
+class TestInheritance{
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}}
+
+	
+
+

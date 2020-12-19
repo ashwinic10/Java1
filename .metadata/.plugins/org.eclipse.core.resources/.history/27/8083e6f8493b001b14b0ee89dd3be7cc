@@ -1,0 +1,9 @@
+package com.miit.javatraining;
+
+public class Inheritance {
+
+	public Inheritance() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

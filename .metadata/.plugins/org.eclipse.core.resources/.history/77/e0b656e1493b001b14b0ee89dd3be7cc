@@ -1,0 +1,14 @@
+package com.miit.javatraining;
+
+public class in {
+
+	public in() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

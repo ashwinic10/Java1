@@ -1,0 +1,7 @@
+package com.miit.javatraining;
+
+public class orange extends Fruits{
+	System.out.println(" I am the new method of tuna");
+	
+
+}

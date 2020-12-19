@@ -1,0 +1,29 @@
+package com.miit.javatraining;
+
+public class leftrotate {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+int[] array = new int[] {10,20,30,40,50};
+
+int number = 20;
+System.out.println("given array");
+for(int i =0; i<array.length; i++) {
+System.out.print(array[i] + " "); 
+}
+for(int i =0; i<number; i++) {
+	int j,  first;
+	first= array[0];
+	for(j=0; j< array.length-1;j++) {
+		array[j] = array[j+1];
+	}
+	System.out.println();
+	System.out.println("left rotation done :");
+	for(int j1 = 0; j1<array.length;j1++) {
+		System.out.print(array[j1] + "");
+	}
+}
+	}
+
+}
+
